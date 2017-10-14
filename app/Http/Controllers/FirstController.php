@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class FirstController-r extends Controller
+class FirstController extends Controller
 {
     public function index(){
     	$name = "Ahsan";
